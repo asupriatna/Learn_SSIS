@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="AWMSTPWSQL002.mahadasha.tmt.co.id.ZSSIS_Scripting.sa"
+  DTS:DTSID="{5C658AC2-DB52-453B-926F-AB4881FB9796}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=AWMSTPWSQL002.mahadasha.tmt.co.id;User ID=sa;Initial Catalog=ZSSIS_Scripting;Provider=SQLOLEDB.1;Application Name=SSIS-IntegrationServicesProject1-{5C658AC2-DB52-453B-926F-AB4881FB9796}AWMSTPWSQL002.mahadasha.tmt.co.id.ZSSIS_Scripting.sa;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwG5OnjPnfkSP3LY1Kg0rkQAAAAACAAAAAAAQZgAAAAEAACAAAAC+zPSW9+Nhhu+2XJ3JxtSEba+3/7lTVs80ZHsQ27VWxwAAAAAOgAAAAAIAACAAAAA4BF9E7aRS2SmEEhb1GPSo++IMfDcSYdUWR1vAOA9wSIAAAADeIaseSpUlVRgLhFJeCdUlgA3+vm9I3RWilO9dnTjZHPitv5q8WKREfT08WtzxACnAnojoccwC3SqeeQJmKggFLb8oakiXFl/VwkQfHY72m9C2TSlJFQ3OoRpcNqJnI8qtztz/nHOSTrI9A38PnlQJndzqjjwEiEml8ZQA5GLR0EAAAAAi37VKr4eep+WUCys5/4ceM62SNRtm8r4RPZLsKoGlb8m51YML3nYt/USzMTAWczYlZXg87vltXimwaMBCzz5Y</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
